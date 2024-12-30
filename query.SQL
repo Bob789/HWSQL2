@@ -138,3 +138,5 @@ GROUP by weekly_hours;
 -- |     7     | Art History       |             |      6       |     3      | -- Art History course has no assigned lecturer, with 6 weekly hours, shown 3 times.
 -- |     3     | Chemistry         |     3       |      8       |     5      | -- Chemistry course is taught by lecturer ID 3, with 8 weekly hours, shown 5 times.
 -- +-----------+-------------------+-------------+--------------+------------+
+-----------------------------------------------
+
